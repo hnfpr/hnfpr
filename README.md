@@ -13,13 +13,17 @@
 *Transform complex technology → intuitive human-centered experiences*
 
 `PORTFOLIO:` <a href="https://hanifputra.com" target="_blank">hanifputra.com</a>  
+
 `COLLAB:` <a href="mailto:work@hanifputra.com">work@hanifputra.com</a>
+
+`BLOG:` <a href="hnfpr.github.io">hnfpr.github.io</a>
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ### DOMAIN & METHOD
 
 `DOMAIN:` **SaaS | AI-Powered Products | Design Systems**  
+
 `METHOD:` Strip → Amplify → Scale  
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
