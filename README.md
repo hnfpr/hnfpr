@@ -16,8 +16,6 @@
 
 `COLLAB:` <a href="mailto:work@hanifputra.com">work@hanifputra.com</a>
 
-`BLOG:` <a href="hnfpr.github.io">hnfpr.github.io</a>
-
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ### DOMAIN & METHOD
@@ -54,19 +52,6 @@
 2. Systems outlive features  
 3. Data defeats opinions  
 4. Maintainability > Novelty  
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-### ACTIVE PROJECTS
-
-1. **AI COMMAND CENTER** — Enterprise SaaS Framework  
-   ↓ 40% cognitive load reduction \| 12k+ DAU  
-
-2. **NEURO DESIGN SYSTEM** — Component Library  
-   ↓ 92% faster implementation \| Embedded analytics  
-
-3. **ERROR ANTIDOTE** — Prevention Architecture  
-   ↓ 65% support tickets \| Predictive patterns  
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
