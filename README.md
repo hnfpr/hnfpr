@@ -69,5 +69,5 @@
 
 <pre>
 CONNECT → <a href="mailto:work@hanifputra.com">work@hanifputra.com</a>  
-SCHEDULE → <a href="https://hanifputra.com/connect" target="_blank">hanifputra.com/connect</a>
+SCHEDULE → <a href="https://cal.caom/putra" target="_blank">hanifputra.com/connect</a>
 </pre>
